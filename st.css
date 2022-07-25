@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(204, 167, 167);
+    margin: 0;
+    font-family: "Noto Serif Thai";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+
+}
+p{
+    text-indent: 30px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: "Noto Serif Thai";
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+}
+div{
+    display: block;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+element.style {
+    font-size: 50px;
+    background-color: #E80C7A;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+element.style {
+    font-size: 50px;
+    background-color: #58CC00;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+element.style {
+    font-size: 50px;
+    background-color: #FFB60F;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+element.style {
+    font-size: 50px;
+    background-color: #00CFFF;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.mb-3, .my-3 {
+    margin-bottom: 1rem!important;
+    margin-top: 1rem!important;
+}
+.mw-100 {
+    max-width: 100%!important;
+}
+element.style {
+    background-color: #ff00b1;
+}
+.text-center {
+    text-align: center!important;
+}
+.pb-3, .py-3 {
+    padding-bottom: 1rem!important;
+    padding-top: 1rem!important;
+}
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+}
